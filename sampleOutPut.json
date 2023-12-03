@@ -1,0 +1,216 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        
+        
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Manu Raju",
+            "title": "House GOP Whip Tom Emmer moves to lock in support for speakership amid crowded field - CNN",
+            "description": "House GOP Whip Tom Emmer has moved to lock in support across the conference, giving him what many Republicans believe is an advantage heading into a secret-ballot election to nominate their candidate for speaker on Tuesday, according to sources.",
+            "url": "https://www.cnn.com/2023/10/22/politics/house-speaker-race-emmer/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231022123733-tom-emmer-0913-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-10-22T17:17:00Z",
+            "content": "House speaker candidate Tom Emmer, the GOP whip, has moved to lock in support across the ideological and geographic spectrum in the conference, giving him what many House Republicans believe is an ad… [+1792 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Bacon, Violet Ikonomova",
+            "title": "Samantha Woll funeral: Detroit synagogue leader was community 'beacon' - USA TODAY",
+            "description": "The body of Samantha Woll, 40, was found outsider her Detroit home Saturday morning with multiple stab wounds.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/10/22/detroit-synagogue-leader-samantha-woll-funeral/71281194007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/22/USAT/71280837007-vpc-detroit-synagogue-leader-killed.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
+            "publishedAt": "2023-10-22T16:47:41Z",
+            "content": "DETROIT Services were set for Sunday afternoon for a synagogue president found stabbed to death outside her home as the investigation into her murder stretched into a second day.\r\nSamantha Woll, 40, … [+2645 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Pentagon bolsters U.S. presence in Middle East following Iran proxy attacks on troops - POLITICO",
+            "description": "The USS Dwight D. Eisenhower, along with its associated warships and fighter jets, has been redirected.",
+            "url": "https://www.politico.com/news/2023/10/22/pentagon-middle-east-escalation-israel-00122915",
+            "urlToImage": "https://static.politico.com/22/f6/96feea1a4429ba6f12d0458b3f97/israel-palestinians-17622.jpg",
+            "publishedAt": "2023-10-22T16:47:37Z",
+            "content": "[Weve] seen rocket and UAV attacks against bases housing our troops in Iraq and Syria. Were concerned about potential escalation, Austin said Sunday following the announcement.\r\nIn fact, what were se… [+1643 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Blast, ambulances heard near Rafah crossing between Egypt and Gaza, witnesses say - Reuters",
+            "description": "An explosion and the sound of ambulances were heard near the Rafah crossing between Egypt and the Gaza Strip on Sunday afternoon, shortly after a second aid convoy had entered the crossing from the Egyptian side, witnesses said.",
+            "url": "https://www.reuters.com/world/middle-east/blast-ambulances-heard-near-rafah-crossing-between-egypt-gaza-witnesses-2023-10-22/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=160",
+            "publishedAt": "2023-10-22T16:00:00Z",
+            "content": "CAIRO, Oct 22 (Reuters) - An explosion and the sound of ambulances were heard near the Rafah crossing between Egypt and the Gaza Strip on Sunday afternoon, shortly after a second aid convoy had enter… [+532 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Marshall Cohen, Kristen Holmes",
+            "title": "After Sidney Powell pleads guilty in Georgia case, Trump claims she was 'never' his attorney, despite their past ties - CNN",
+            "description": "Former President Donald Trump claimed Sidney Powell was “never” his attorney in a social media post Sunday, three days after she pleaded guilty in the Georgia election subversion case.",
+            "url": "https://www.cnn.com/2023/10/22/politics/trump-sidney-powell/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231001210506-03-donald-trump-file-2023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-10-22T15:53:00Z",
+            "content": "Former President Donald Trump claimed Sidney Powell was never his attorney in a social media post Sunday, three days after she pleaded guilty in the Georgia election subversion case.\r\nDespite Trumps … [+2540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Patriots.com"
+            },
+            "author": null,
+            "title": "Inactive Analysis: Cole Strange, Demario Douglas, Jack Jones Return to the Lineup for the Patriots vs. Bills - Patriots.com",
+            "description": "The Patriots offense will get a boost with a healthier interior offensive line and wide receiver group, while Jones will make his season debut on Sunday.",
+            "url": "https://www.patriots.com/news/inactive-analysis-cole-strange-demario-douglas-jack-jones-return-to-the-lineup-f",
+            "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/patriots/d1dxpmbowzagor0adkgz",
+            "publishedAt": "2023-10-22T15:42:09Z",
+            "content": "New England looks to snap its three-game losing streak with a beefy injury report that included a season-high 16 players listed as questionable while ruling three players on Friday. The good news is … [+6916 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Rebecca Rubin",
+            "title": "Box Office: Scorsese’s ‘Killers of the Flower Moon’ Impresses With $23 Million Debut, but Swift’s ‘Eras Tour’ Remains No. 1 - Variety",
+            "description": "Martin Scorsese's \"Killers of the Flower Moon\" starts strong, but \"Taylor Swift: The Eras Tour\" remains in first place.",
+            "url": "https://variety.com/2023/film/box-office/box-office-scorsese-killers-of-the-flower-moon-opening-weekend-taylor-swift-stays-first-1235764365/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/10/Killers_Of_The_Flower_Moon__Photo_01032.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-10-22T15:27:00Z",
+            "content": "Martin Scorsese‘s star-studded crime epic “Killers of the Flower Moon” impressed in its box office debut, collecting $23 million from 3,628 North American theaters over the weekend. The film also bro… [+5017 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Danielle Wallace",
+            "title": "Venezuelans top Mexicans in US illegal border crossings for 1st time on record in September - Fox News",
+            "description": "Border Patrol arrested Venezuelans who entered from Mexico 54,833 times in September, surpassing the number of Mexican nationals caught for the first time.",
+            "url": "https://www.foxnews.com/politics/venezuelans-top-mexicans-us-illegal-border-crossings-1st-time-record-september",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/10/AP23293811592594.jpg",
+            "publishedAt": "2023-10-22T14:57:00Z",
+            "content": "Venezuelans topped Mexicans for the largest group of nationals arrested for illegally crossing the U.S. southern border for the first time on record in the month of September. \r\nAccording to its late… [+4474 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nectar Gan, Tamar Michaelis, Radina Gigova, Abeer Salman, Hafsa Khalil",
+            "title": "Israel warns Gaza airstrikes will intensify and hits West Bank ahead of war's 'next stage' - CNN",
+            "description": "Hamas fighters and Israeli forces engaged in limited clashes inside Gaza on Sunday as the Israeli military ramped up airstrikes on the Palestinian enclave ahead of what it described as the “next stage” of its war on the militant group.",
+            "url": "https://www.cnn.com/2023/10/22/middleeast/israel-gaza-hamas-war-sunday-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231021212147-02-israel-gaza-gallery-update-1021.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-10-22T14:36:00Z",
+            "content": "Hamas fighters and Israeli forces engaged in limited clashes inside Gaza on Sunday as the Israeli military ramped up airstrikes on the Palestinian enclave ahead of what it described as the next stage… [+10564 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jacqueline Howard",
+            "title": "Bladder cancer studies suggest new ways to treat the disease and improve survival - CNN",
+            "description": "A new combination of cancer medications has been shown in research to extend overall survival in patients with advanced bladder cancer more than the chemotherapies currently used as the standard of care.",
+            "url": "https://www.cnn.com/2023/10/22/health/bladder-cancer-treatment-studies/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231020181757-bladder-cancer-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-10-22T14:30:00Z",
+            "content": "A new combination of cancer medications appearsto extend overall survival in patients with advanced bladder cancer more than the chemotherapies currently used as the standard of care.\r\nThe research, … [+8392 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Harvard Scientists Find That Eating Red Meat Could Increase Your Risk of Diabetes - SciTechDaily",
+            "description": "Switching from red meat to plant-derived protein sources could lower the risk of diabetes and offer environmental benefits. Consuming as few as two servings of red meat weekly could elevate the risk of type 2 diabetes in comparison to those who consume less, …",
+            "url": "https://scitechdaily.com/harvard-scientists-find-that-eating-red-meat-could-increase-your-risk-of-diabetes/",
+            "urlToImage": "https://scitechdaily.com/images/Red-Meat-Ribeye.jpg",
+            "publishedAt": "2023-10-22T14:19:56Z",
+            "content": "ByHarvard T.H. Chan School of Public HealthOctober 22, 2023\r\nA recent study has revealed that even two servings of red meat per week can increase the risk of developing type 2 diabetes. The risk rise… [+4554 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": null,
+            "title": "Eagles vs. Dolphins prediction, odds, line, spread: Sunday Night Football picks by model on 172-120 roll - CBS Sports",
+            "description": "SportsLine's proven model has simulated Miami Dolphins vs. Philadelphia Eagles on Sunday Night Football 10,000 times",
+            "url": "https://www.cbssports.com/nfl/news/eagles-vs-dolphins-prediction-odds-line-spread-sunday-night-football-picks-by-model-on-172-120-roll/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/20/bf96c0f3-92f8-448b-8561-f6f199e2cab0/thumbnail/1200x675/ace08b6f82ad144a933e07503565785a/raheem-mostert-2-1400-us.jpg",
+            "publishedAt": "2023-10-22T14:03:36Z",
+            "content": "Two of the NFL's top offenses collide when the Miami Dolphins and Philadelphia Eagles square off on Sunday Night Football at Lincoln Financial Field in Philadelphia. Led by quarterback Tua Tagovailoa… [+4021 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "China, Philippines trade accusations over South China Sea clash - Reuters",
+            "description": "China and the Philippines traded accusations over a collision in disputed waters of the South China Sea as Chinese vessels blocked Philippine boats supplying forces there on Sunday in the latest of a series of maritime confrontations.",
+            "url": "https://www.reuters.com/world/asia-pacific/china-says-it-lawfully-blocked-philippine-ships-going-disputed-shoal-2023-10-22/",
+            "urlToImage": "https://www.reuters.com/resizer/NeIfW1Cl7hUzWtA1vJgHfDKWdUs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/N23PHUXR4BMFDKI3FGJL4AODHM.jpg",
+            "publishedAt": "2023-10-22T13:55:00Z",
+            "content": "BEIJING/MANILA, Oct 22 (Reuters) - China and the Philippines traded accusations over a collision in disputed waters of the South China Sea as Chinese vessels blocked Philippine boats supplying forces… [+4029 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Rebecca Rommen",
+            "title": "How Ukraine is beating the Russian airforce with US missiles - Business Insider",
+            "description": "Ukraine shot down five Russian Su-25 attack jets, and likely destroyed 14 helicopters with US-supplied ATACMS, in two weeks.",
+            "url": "https://www.businessinsider.com/why-ukraine-been-able-pummel-the-russian-airforce-in-october-2023-10",
+            "urlToImage": "https://i.insider.com/652e75ee69c17ca46ae83758?width=1200&format=jpeg",
+            "publishedAt": "2023-10-22T13:45:00Z",
+            "content": "Ukraine spectacularly humiliated Putin's airforce in October, shooting down Russian warplanes and destroying helicopters on the ground, say reports.\r\nUkraine has been bolstering its air defense capab… [+2725 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Action Network"
+            },
+            "author": "The Action Network",
+            "title": "NFL Picks, 4 Expert Predictions on Week 7 Spreads, Totals - The Action Network",
+            "description": "read",
+            "url": "https://www.actionnetwork.com/nfl/nfl-picks-predictions-spread-total-week-7",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T12:37:00Zw",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith, Joanna Tan",
+            "title": "Israel-Hamas war live updates: Israel vows to step up Gaza bombardment ahead of expected ground offensive; West Bank mosque hit - CNBC",
+            "description": "Israel's military has pledged to step up its bombardment of the besieged Gaza Strip in the next stage of the war.",
+            "url": "https://www.cnbc.com/2023/10/22/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107321292-1697971010628-gettyimages-1737988302-AA_22102023_1387652.jpeg?v=1697971065&w=1920&h=1080",
+            "publishedAt": "2023-10-22T12:05:00Z",
+            "content": "A top official with Hezbollah vowed that Israel will pay a high price whenever it starts a ground offensive in the Gaza Strip and said Saturday that his militant group based in Lebanon already is \"in… [+1312 chars]"
+        }
+    ]
+}
